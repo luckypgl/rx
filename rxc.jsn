@@ -1,0 +1,2837 @@
+HTTP 200 OK
+Allow: OPTIONS, GET
+Content-Type: application/json
+Vary: Accept
+
+{
+    "code": 200,
+    "next_period": 20211002315,
+    "periods": [
+        {
+            "period": 20211002001,
+            "today_times": 1,
+            "price": 119929,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002002,
+            "today_times": 2,
+            "price": 119916,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002003,
+            "today_times": 3,
+            "price": 119923,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002004,
+            "today_times": 4,
+            "price": 119931,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002005,
+            "today_times": 5,
+            "price": 119924,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002006,
+            "today_times": 6,
+            "price": 119915,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002007,
+            "today_times": 7,
+            "price": 119909,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002008,
+            "today_times": 8,
+            "price": 119920,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002009,
+            "today_times": 9,
+            "price": 119929,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002010,
+            "today_times": 10,
+            "price": 119932,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002011,
+            "today_times": 11,
+            "price": 119930,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002012,
+            "today_times": 12,
+            "price": 119912,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002013,
+            "today_times": 13,
+            "price": 119903,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002014,
+            "today_times": 14,
+            "price": 119884,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002015,
+            "today_times": 15,
+            "price": 119872,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002016,
+            "today_times": 16,
+            "price": 119879,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002017,
+            "today_times": 17,
+            "price": 119892,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002018,
+            "today_times": 18,
+            "price": 119888,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002019,
+            "today_times": 19,
+            "price": 119877,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002020,
+            "today_times": 20,
+            "price": 119874,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002021,
+            "today_times": 21,
+            "price": 119862,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002022,
+            "today_times": 22,
+            "price": 119854,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002023,
+            "today_times": 23,
+            "price": 119858,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002024,
+            "today_times": 24,
+            "price": 119855,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002025,
+            "today_times": 25,
+            "price": 119857,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002026,
+            "today_times": 26,
+            "price": 119868,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002027,
+            "today_times": 27,
+            "price": 119874,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002028,
+            "today_times": 28,
+            "price": 119885,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002029,
+            "today_times": 29,
+            "price": 119881,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002030,
+            "today_times": 30,
+            "price": 119862,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002031,
+            "today_times": 31,
+            "price": 119848,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002032,
+            "today_times": 32,
+            "price": 119829,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002033,
+            "today_times": 33,
+            "price": 119811,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002034,
+            "today_times": 34,
+            "price": 119818,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002035,
+            "today_times": 35,
+            "price": 119804,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002036,
+            "today_times": 36,
+            "price": 119799,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002037,
+            "today_times": 37,
+            "price": 119796,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002038,
+            "today_times": 38,
+            "price": 119816,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002039,
+            "today_times": 39,
+            "price": 119812,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002040,
+            "today_times": 40,
+            "price": 119822,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002041,
+            "today_times": 41,
+            "price": 119814,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002042,
+            "today_times": 42,
+            "price": 119804,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002043,
+            "today_times": 43,
+            "price": 119820,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002044,
+            "today_times": 44,
+            "price": 119837,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002045,
+            "today_times": 45,
+            "price": 119853,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002046,
+            "today_times": 46,
+            "price": 119859,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002047,
+            "today_times": 47,
+            "price": 119857,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002048,
+            "today_times": 48,
+            "price": 119849,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002049,
+            "today_times": 49,
+            "price": 119842,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002050,
+            "today_times": 50,
+            "price": 119823,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002051,
+            "today_times": 51,
+            "price": 119825,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002052,
+            "today_times": 52,
+            "price": 119822,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002053,
+            "today_times": 53,
+            "price": 119816,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002054,
+            "today_times": 54,
+            "price": 119805,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002055,
+            "today_times": 55,
+            "price": 119797,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002056,
+            "today_times": 56,
+            "price": 119816,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002057,
+            "today_times": 57,
+            "price": 119832,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002058,
+            "today_times": 58,
+            "price": 119818,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002059,
+            "today_times": 59,
+            "price": 119810,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002060,
+            "today_times": 60,
+            "price": 119808,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002061,
+            "today_times": 61,
+            "price": 119822,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002062,
+            "today_times": 62,
+            "price": 119821,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002063,
+            "today_times": 63,
+            "price": 119833,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002064,
+            "today_times": 64,
+            "price": 119839,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002065,
+            "today_times": 65,
+            "price": 119834,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002066,
+            "today_times": 66,
+            "price": 119828,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002067,
+            "today_times": 67,
+            "price": 119835,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002068,
+            "today_times": 68,
+            "price": 119830,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002069,
+            "today_times": 69,
+            "price": 119844,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002070,
+            "today_times": 70,
+            "price": 119846,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002071,
+            "today_times": 71,
+            "price": 119853,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002072,
+            "today_times": 72,
+            "price": 119859,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002073,
+            "today_times": 73,
+            "price": 119852,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002074,
+            "today_times": 74,
+            "price": 119844,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002075,
+            "today_times": 75,
+            "price": 119855,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002076,
+            "today_times": 76,
+            "price": 119843,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002077,
+            "today_times": 77,
+            "price": 119832,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002078,
+            "today_times": 78,
+            "price": 119818,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002079,
+            "today_times": 79,
+            "price": 119832,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002080,
+            "today_times": 80,
+            "price": 119824,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002081,
+            "today_times": 81,
+            "price": 119844,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002082,
+            "today_times": 82,
+            "price": 119837,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002083,
+            "today_times": 83,
+            "price": 119822,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002084,
+            "today_times": 84,
+            "price": 119826,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002085,
+            "today_times": 85,
+            "price": 119811,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002086,
+            "today_times": 86,
+            "price": 119814,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002087,
+            "today_times": 87,
+            "price": 119834,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002088,
+            "today_times": 88,
+            "price": 119829,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002089,
+            "today_times": 89,
+            "price": 119848,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002090,
+            "today_times": 90,
+            "price": 119838,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002091,
+            "today_times": 91,
+            "price": 119855,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002092,
+            "today_times": 92,
+            "price": 119844,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002093,
+            "today_times": 93,
+            "price": 119850,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002094,
+            "today_times": 94,
+            "price": 119855,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002095,
+            "today_times": 95,
+            "price": 119847,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002096,
+            "today_times": 96,
+            "price": 119836,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002097,
+            "today_times": 97,
+            "price": 119827,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002098,
+            "today_times": 98,
+            "price": 119825,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002099,
+            "today_times": 99,
+            "price": 119840,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002100,
+            "today_times": 100,
+            "price": 119850,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002101,
+            "today_times": 101,
+            "price": 119836,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002102,
+            "today_times": 102,
+            "price": 119855,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002103,
+            "today_times": 103,
+            "price": 119862,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002104,
+            "today_times": 104,
+            "price": 119853,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002105,
+            "today_times": 105,
+            "price": 119844,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002106,
+            "today_times": 106,
+            "price": 119843,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002107,
+            "today_times": 107,
+            "price": 119861,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002108,
+            "today_times": 108,
+            "price": 119874,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002109,
+            "today_times": 109,
+            "price": 119878,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002110,
+            "today_times": 110,
+            "price": 119897,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002111,
+            "today_times": 111,
+            "price": 119887,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002112,
+            "today_times": 112,
+            "price": 119883,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002113,
+            "today_times": 113,
+            "price": 119894,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002114,
+            "today_times": 114,
+            "price": 119890,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002115,
+            "today_times": 115,
+            "price": 119892,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002116,
+            "today_times": 116,
+            "price": 119890,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002117,
+            "today_times": 117,
+            "price": 119871,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002118,
+            "today_times": 118,
+            "price": 119883,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002119,
+            "today_times": 119,
+            "price": 119864,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002120,
+            "today_times": 120,
+            "price": 119862,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002121,
+            "today_times": 121,
+            "price": 119874,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002122,
+            "today_times": 122,
+            "price": 119862,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002123,
+            "today_times": 123,
+            "price": 119869,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002124,
+            "today_times": 124,
+            "price": 119850,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002125,
+            "today_times": 125,
+            "price": 119866,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002126,
+            "today_times": 126,
+            "price": 119852,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002127,
+            "today_times": 127,
+            "price": 119855,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002128,
+            "today_times": 128,
+            "price": 119836,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002129,
+            "today_times": 129,
+            "price": 119844,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002130,
+            "today_times": 130,
+            "price": 119846,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002131,
+            "today_times": 131,
+            "price": 119840,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002132,
+            "today_times": 132,
+            "price": 119837,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002133,
+            "today_times": 133,
+            "price": 119821,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002134,
+            "today_times": 134,
+            "price": 119803,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002135,
+            "today_times": 135,
+            "price": 119822,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002136,
+            "today_times": 136,
+            "price": 119814,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002137,
+            "today_times": 137,
+            "price": 119819,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002138,
+            "today_times": 138,
+            "price": 119815,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002139,
+            "today_times": 139,
+            "price": 119833,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002140,
+            "today_times": 140,
+            "price": 119817,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002141,
+            "today_times": 141,
+            "price": 119811,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002142,
+            "today_times": 142,
+            "price": 119797,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002143,
+            "today_times": 143,
+            "price": 119814,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002144,
+            "today_times": 144,
+            "price": 119810,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002145,
+            "today_times": 145,
+            "price": 119801,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002146,
+            "today_times": 146,
+            "price": 119800,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002147,
+            "today_times": 147,
+            "price": 119811,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002148,
+            "today_times": 148,
+            "price": 119800,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002149,
+            "today_times": 149,
+            "price": 119807,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002150,
+            "today_times": 150,
+            "price": 119822,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002151,
+            "today_times": 151,
+            "price": 119803,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002152,
+            "today_times": 152,
+            "price": 119806,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002153,
+            "today_times": 153,
+            "price": 119818,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002154,
+            "today_times": 154,
+            "price": 119803,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002155,
+            "today_times": 155,
+            "price": 119806,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002156,
+            "today_times": 156,
+            "price": 119807,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002157,
+            "today_times": 157,
+            "price": 119822,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002158,
+            "today_times": 158,
+            "price": 119804,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002159,
+            "today_times": 159,
+            "price": 119816,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002160,
+            "today_times": 160,
+            "price": 119820,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002161,
+            "today_times": 161,
+            "price": 119801,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002162,
+            "today_times": 162,
+            "price": 119817,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002163,
+            "today_times": 163,
+            "price": 119831,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002164,
+            "today_times": 164,
+            "price": 119811,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002165,
+            "today_times": 165,
+            "price": 119808,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002166,
+            "today_times": 166,
+            "price": 119827,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002167,
+            "today_times": 167,
+            "price": 119819,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002168,
+            "today_times": 168,
+            "price": 119802,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002169,
+            "today_times": 169,
+            "price": 119820,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002170,
+            "today_times": 170,
+            "price": 119813,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002171,
+            "today_times": 171,
+            "price": 119817,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002172,
+            "today_times": 172,
+            "price": 119811,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002173,
+            "today_times": 173,
+            "price": 119820,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002174,
+            "today_times": 174,
+            "price": 119813,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002175,
+            "today_times": 175,
+            "price": 119820,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002176,
+            "today_times": 176,
+            "price": 119811,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002177,
+            "today_times": 177,
+            "price": 119802,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002178,
+            "today_times": 178,
+            "price": 119814,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002179,
+            "today_times": 179,
+            "price": 119820,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002180,
+            "today_times": 180,
+            "price": 119839,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002181,
+            "today_times": 181,
+            "price": 119820,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002182,
+            "today_times": 182,
+            "price": 119840,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002183,
+            "today_times": 183,
+            "price": 119823,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002184,
+            "today_times": 184,
+            "price": 119814,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002185,
+            "today_times": 185,
+            "price": 119831,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002186,
+            "today_times": 186,
+            "price": 119820,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002187,
+            "today_times": 187,
+            "price": 119833,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002188,
+            "today_times": 188,
+            "price": 119821,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002189,
+            "today_times": 189,
+            "price": 119801,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002190,
+            "today_times": 190,
+            "price": 119815,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002191,
+            "today_times": 191,
+            "price": 119816,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002192,
+            "today_times": 192,
+            "price": 119826,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002193,
+            "today_times": 193,
+            "price": 119841,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002194,
+            "today_times": 194,
+            "price": 119834,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002195,
+            "today_times": 195,
+            "price": 119829,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002196,
+            "today_times": 196,
+            "price": 119823,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002197,
+            "today_times": 197,
+            "price": 119816,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002198,
+            "today_times": 198,
+            "price": 119809,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002199,
+            "today_times": 199,
+            "price": 119801,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002200,
+            "today_times": 200,
+            "price": 119788,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002201,
+            "today_times": 201,
+            "price": 119803,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002202,
+            "today_times": 202,
+            "price": 119806,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002203,
+            "today_times": 203,
+            "price": 119799,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002204,
+            "today_times": 204,
+            "price": 119817,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002205,
+            "today_times": 205,
+            "price": 119809,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002206,
+            "today_times": 206,
+            "price": 119825,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002207,
+            "today_times": 207,
+            "price": 119815,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002208,
+            "today_times": 208,
+            "price": 119819,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002209,
+            "today_times": 209,
+            "price": 119819,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002210,
+            "today_times": 210,
+            "price": 119811,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002211,
+            "today_times": 211,
+            "price": 119819,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002212,
+            "today_times": 212,
+            "price": 119807,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002213,
+            "today_times": 213,
+            "price": 119780,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002214,
+            "today_times": 214,
+            "price": 119785,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002215,
+            "today_times": 215,
+            "price": 119765,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002216,
+            "today_times": 216,
+            "price": 119751,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002217,
+            "today_times": 217,
+            "price": 119760,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002218,
+            "today_times": 218,
+            "price": 119777,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002219,
+            "today_times": 219,
+            "price": 119784,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002220,
+            "today_times": 220,
+            "price": 119802,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002221,
+            "today_times": 221,
+            "price": 119806,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002222,
+            "today_times": 222,
+            "price": 119796,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002223,
+            "today_times": 223,
+            "price": 119782,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002224,
+            "today_times": 224,
+            "price": 119795,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002225,
+            "today_times": 225,
+            "price": 119806,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002226,
+            "today_times": 226,
+            "price": 119810,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002227,
+            "today_times": 227,
+            "price": 119823,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002228,
+            "today_times": 228,
+            "price": 119837,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002229,
+            "today_times": 229,
+            "price": 119855,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002230,
+            "today_times": 230,
+            "price": 119843,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002231,
+            "today_times": 231,
+            "price": 119830,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002232,
+            "today_times": 232,
+            "price": 119830,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002233,
+            "today_times": 233,
+            "price": 119817,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002234,
+            "today_times": 234,
+            "price": 119826,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002235,
+            "today_times": 235,
+            "price": 119827,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002236,
+            "today_times": 236,
+            "price": 119827,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002237,
+            "today_times": 237,
+            "price": 119847,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002238,
+            "today_times": 238,
+            "price": 119823,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002239,
+            "today_times": 239,
+            "price": 119837,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002240,
+            "today_times": 240,
+            "price": 119828,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002241,
+            "today_times": 241,
+            "price": 119808,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002242,
+            "today_times": 242,
+            "price": 119791,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002243,
+            "today_times": 243,
+            "price": 119783,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002244,
+            "today_times": 244,
+            "price": 119766,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002245,
+            "today_times": 245,
+            "price": 119773,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002246,
+            "today_times": 246,
+            "price": 119757,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002247,
+            "today_times": 247,
+            "price": 119759,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002248,
+            "today_times": 248,
+            "price": 119757,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002249,
+            "today_times": 249,
+            "price": 119751,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002250,
+            "today_times": 250,
+            "price": 119761,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002251,
+            "today_times": 251,
+            "price": 119763,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002252,
+            "today_times": 252,
+            "price": 119759,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002253,
+            "today_times": 253,
+            "price": 119770,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002254,
+            "today_times": 254,
+            "price": 119764,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002255,
+            "today_times": 255,
+            "price": 119780,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002256,
+            "today_times": 256,
+            "price": 119792,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002257,
+            "today_times": 257,
+            "price": 119794,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002258,
+            "today_times": 258,
+            "price": 119803,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002259,
+            "today_times": 259,
+            "price": 119808,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002260,
+            "today_times": 260,
+            "price": 119826,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002261,
+            "today_times": 261,
+            "price": 119816,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002262,
+            "today_times": 262,
+            "price": 119822,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002263,
+            "today_times": 263,
+            "price": 119822,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002264,
+            "today_times": 264,
+            "price": 119835,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002265,
+            "today_times": 265,
+            "price": 119841,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002266,
+            "today_times": 266,
+            "price": 119844,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002267,
+            "today_times": 267,
+            "price": 119821,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002268,
+            "today_times": 268,
+            "price": 119817,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002269,
+            "today_times": 269,
+            "price": 119809,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002270,
+            "today_times": 270,
+            "price": 119797,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002271,
+            "today_times": 271,
+            "price": 119800,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002272,
+            "today_times": 272,
+            "price": 119824,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002273,
+            "today_times": 273,
+            "price": 119841,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002274,
+            "today_times": 274,
+            "price": 119844,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002275,
+            "today_times": 275,
+            "price": 119842,
+            "last_num": 2,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002276,
+            "today_times": 276,
+            "price": 119845,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002277,
+            "today_times": 277,
+            "price": 119838,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002278,
+            "today_times": 278,
+            "price": 119841,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002279,
+            "today_times": 279,
+            "price": 119838,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002280,
+            "today_times": 280,
+            "price": 119825,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002281,
+            "today_times": 281,
+            "price": 119823,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002282,
+            "today_times": 282,
+            "price": 119825,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002283,
+            "today_times": 283,
+            "price": 119841,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002284,
+            "today_times": 284,
+            "price": 119858,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002285,
+            "today_times": 285,
+            "price": 119840,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002286,
+            "today_times": 286,
+            "price": 119841,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002287,
+            "today_times": 287,
+            "price": 119860,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002288,
+            "today_times": 288,
+            "price": 119856,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002289,
+            "today_times": 289,
+            "price": 119870,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002290,
+            "today_times": 290,
+            "price": 119870,
+            "last_num": 0,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": true
+        },
+        {
+            "period": 20211002291,
+            "today_times": 291,
+            "price": 119878,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002292,
+            "today_times": 292,
+            "price": 119874,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002293,
+            "today_times": 293,
+            "price": 119889,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002294,
+            "today_times": 294,
+            "price": 119879,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002295,
+            "today_times": 295,
+            "price": 119878,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002296,
+            "today_times": 296,
+            "price": 119881,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002297,
+            "today_times": 297,
+            "price": 119869,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002298,
+            "today_times": 298,
+            "price": 119881,
+            "last_num": 1,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002299,
+            "today_times": 299,
+            "price": 119886,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002300,
+            "today_times": 300,
+            "price": 119903,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002301,
+            "today_times": 301,
+            "price": 119928,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002302,
+            "today_times": 302,
+            "price": 119936,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002303,
+            "today_times": 303,
+            "price": 119923,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002304,
+            "today_times": 304,
+            "price": 119929,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002305,
+            "today_times": 305,
+            "price": 119927,
+            "last_num": 7,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002306,
+            "today_times": 306,
+            "price": 119906,
+            "last_num": 6,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002307,
+            "today_times": 307,
+            "price": 119924,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002308,
+            "today_times": 308,
+            "price": 119919,
+            "last_num": 9,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002309,
+            "today_times": 309,
+            "price": 119905,
+            "last_num": 5,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": true
+        },
+        {
+            "period": 20211002310,
+            "today_times": 310,
+            "price": 119928,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002311,
+            "today_times": 311,
+            "price": 119913,
+            "last_num": 3,
+            "is_green": true,
+            "is_red": false,
+            "is_violet": false
+        },
+        {
+            "period": 20211002312,
+            "today_times": 312,
+            "price": 119894,
+            "last_num": 4,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002313,
+            "today_times": 313,
+            "price": 119908,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        },
+        {
+            "period": 20211002314,
+            "today_times": 314,
+            "price": 119928,
+            "last_num": 8,
+            "is_green": false,
+            "is_red": true,
+            "is_violet": false
+        }
+    ]
+}
